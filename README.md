@@ -33,13 +33,12 @@ o	Thomas High School falls under the category of spending range $631-645. We can
 	Scores by school type
 Both the initial analysis and updated analysis shows that Charter schools have a high overall passing percentage of around 90% whereas District schools around 54%.
 
-3.	Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
 
-The initial analysis showed  Thomas High School on the  second position when sorted by % Overall Passing. On Updated analysis, Thomas High school went to the 8th place based on % overall passing data. The overall passing% dropped from 91% to 65% for the school summary.
-Another updated school summary is data is produced after removing the 9th graders count from THS and recalculating the #% Passing Math,% Passing Reading and % Overall Passing based on 10th ,11th and 12th grade student counts from Thomas High School. The overall passing percent bumped to 90.630324 when calculated for 1174 students vs 1635 students.
-The Math and Reading scores by grade shows the value Nan for 9th graders Thomas High School.
-
-The scores by school size or type shows no significant change when compared to initial analysis and updated analysis
- Another  interesting observation is the student counts for district schools ( 26976) and charter schools (12194). We had the more than twice the data for district schools as compared to charter schools.
+- The initial analysis showed  Thomas High School on the  second position when sorted by % Overall Passing. On Updated analysis, Thomas High school went to the 8th place based on % overall passing data. The overall passing% dropped from 91% to 65% for the school summary.
+- Another updated school summary is data is produced after removing the 9th graders count from THS and recalculating the #% Passing Math,% Passing Reading and % Overall Passing based on 10th ,11th and 12th grade student counts from Thomas High School. The overall passing percent bumped to 90.630324 when calculated for 1174 students vs 1635 students.
+- The Math and Reading scores by grade shows the value Nan for 9th graders Thomas High School.
+- The scores by school size or type shows no significant change when compared to initial analysis and updated analysis
+-  An interesting observation is the student counts for district schools ( 26976) and charter schools (12194). We had the more than twice the data for district schools as compared to charter schools.
 
 
