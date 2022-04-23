@@ -24,13 +24,20 @@ The school summary is impacted  and dropped heavily for the % Passing Math, % Pa
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 In the initial analysis, we see that Thomas High School was second on the list when sorted by % Overall Passing. On Updated analysis, Thomas High school went to the 8th place based on % overall passing data.
 - How does replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade
+
 The updated math and reading scores by grade  shows NaN for 9th grade Thomas High School Data
+
 Scores by school spending
+
 Thomas High School falls under the category of spending range $631-645. We can observe very minimal/negligible impact on the data for the spending Range $631-645
 Scores by school size
+
 Thomas High School falls under the category of  school size “Medium” with a total of 1635 students. We can observe very minimal/negligible impact on the data for the “Medium” range schools student population
+
 Scores by school type
+
 Both the initial analysis and updated analysis shows that Charter schools have a high overall passing percentage of around 90% whereas District schools around 54%.
 
 ## Summary: 
