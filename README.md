@@ -18,10 +18,13 @@ Key Metrics:
 It was then brought to attention that the math and reading grades of 9th grade students for Thomas high school appear to have altered. Hence an additional analysis for the same metrics has to be performed by replacing the math and reading scores with NaNs for Thomas High School 9th grade students and keeping the rest of the data in tact
 ## Results
 - How is the district summary affected?
+- 
 Replacing the 9th grade data has not made a significant impact on the district summary as only 461 out of 39170 student’s data has been excluded from calculations.
 - How is the school summary affected?
+- 
 The school summary is impacted  and dropped heavily for the % Passing Math, % Passing Reading, and % Overall Passing data  as shown.
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- 
 In the initial analysis, we see that Thomas High School was second on the list when sorted by % Overall Passing. On Updated analysis, Thomas High school went to the 8th place based on % overall passing data.
 - How does replacing the ninth-grade scores affect the following:
 
