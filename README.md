@@ -3,6 +3,7 @@ School district Analysis using pandas and jupyter Notebook
 ## Overview of the school district analysis
 The purpose of this analysis is to perform EDA and  determine the following metrics using pandas and Jupyter notebook. 
 We are provided with two csv files that contain the school data (School name, type, size and budget) and student data (student_name,gender,grade,school name, reading and math scores of each student)
+
 Key Metrics:
 - A high-level snapshot of the district's key metrics.
 - An overview of the key metrics for each school.
