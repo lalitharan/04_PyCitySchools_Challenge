@@ -57,7 +57,7 @@ _THS Updated Analysis_
 
 - How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
+**Math and reading scores by grade**
 
 The updated math and reading scores by grade  shows NaN for 9th grade Thomas High School Data
 
@@ -65,7 +65,7 @@ The updated math and reading scores by grade  shows NaN for 9th grade Thomas Hig
 
 ![](Images/Reading_Scores_By_Grade.png)
 
-Scores by school spending
+**Scores by school spending**
 
 Thomas High School falls under the category of spending range $631-645. We can observe very minimal/negligible impact on the data for the spending Range $631-645
 
@@ -78,7 +78,7 @@ _Updated School Spending_
 ![](Images/Spending_Summary_Updated.png)
 
 
-Scores by school size
+**Scores by school size**
 
 Thomas High School falls under the category of  school size “Medium” with a total of 1635 students. We can observe very minimal/negligible impact on the data for the “Medium” range schools student population
 
@@ -90,7 +90,7 @@ _Updated scores by size_
 
 ![](Images/Size_Summary_Updated.png)
 
-Scores by school type
+**Scores by school type**
 
 _Initial Scores by Type_
 
