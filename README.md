@@ -109,6 +109,6 @@ Both the initial analysis and updated analysis shows that Charter schools have a
 - Another updated school summary is data is produced after removing the 9th graders count from THS and recalculating the #% Passing Math,% Passing Reading and % Overall Passing based on 10th ,11th and 12th grade student counts from Thomas High School. The overall passing percent bumped to 90.630324 when calculated for 1174 students through grades 10, 11 and 12.
 - The Math and Reading scores by grade shows the value Nan for 9th graders Thomas High School.
 - The scores by school size or type shows no significant change when compared to initial analysis and updated analysis
--  An interesting observation is the student counts for district schools ( 26976) and charter schools (12194). We had the more than twice the data for district schools as compared to charter schools.
+-  An interesting observation is the student counts for district schools ( 26976) and charter schools (12194). We have the more than twice the data for district schools as compared to charter schools.
 
 
