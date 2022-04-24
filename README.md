@@ -15,7 +15,7 @@ Key Metrics:
 - School performance based on the school size 
 - School performance based on the type of school
 
-It was then brought to attention that the math and reading grades of 9th grade students for Thomas high school appear to have altered. Hence an additional analysis for the same metrics has to be performed by replacing the math and reading scores with NaNs for Thomas High School 9th grade students and keeping the rest of the data in tact
+It was then brought to attention that the math and reading grades of 9th grade students for Thomas high school appear to have altered. Hence an additional/updated analysis for the same metrics has to be performed by replacing the math and reading scores with NaNs for Thomas High School 9th grade students and keeping the rest of the data in tact
 ## Results
 - How is the district summary affected?
 
